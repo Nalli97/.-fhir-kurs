@@ -1,11 +1,11 @@
 Source File	Size	loadResources	load	generateSnapshots	load-configure	scan	loadDepInfo	loadInfo	checkR4R4B	generateNarratives	validate	loadLists	checkConformanceResources	checkConformanceResources2	checkConformanceResources3	generateLogicalMaps	validateExpressions	scanForUsageStats	checkURLsUnique	processProvenanceDetails	generate1	generate2	generateLogicals	makeDependencies	generateExampleZip	generateValidationPack	scanProfilesForR5	scanExamplesForR5
-/fsh-generated/resources/ImplementationGuide-fhir.education.kursig.json	2225	-	0	0	0	0	0	0	10	126	0	0	0	0	0	0	0	0	0	0	50	41	0	0	0	1	0	0
-fsh-generated/resources/Patient-patient-tolvan.json	494	2	0	0	1	0	0	0	0	216	0	0	0	0	0	0	0	0	0	0	5	11	0	0	1	0	0	0
-fsh-generated/resources/StructureDefinition-EducationEncounter.json	846	1	0	109	0	0	0	0	0	357	0	0	1	0	0	0	0	2	0	0	214	703	0	0	0	6	0	1
-fsh-generated/resources/StructureDefinition-EducationPatient.json	1596	1	0	92	0	0	0	0	1	32	0	0	0	0	0	0	0	1	0	0	168	289	0	0	0	7	0	1
-/fsh-generated/includes/menu.xml	1043	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+/fsh-generated/resources/ImplementationGuide-fhir.education.kursig.json	2225	-	0	0	0	0	0	0	15	231	0	0	0	0	0	0	0	0	0	0	71	60	0	0	0	1	0	0
+fsh-generated/resources/Patient-patient-tolvan.json	494	2	0	0	2	0	0	0	0	268	0	0	0	0	0	0	0	0	0	0	6	17	0	0	0	0	0	0
+fsh-generated/resources/StructureDefinition-EducationEncounter.json	846	2	0	77	1	0	0	0	1	418	0	0	1	0	0	0	0	3	0	0	230	1224	0	0	0	8	0	1
+fsh-generated/resources/StructureDefinition-EducationPatient.json	2055	2	0	82	0	0	0	0	0	36	0	0	0	0	0	0	0	1	0	0	208	312	0	0	0	8	1	1
+/fsh-generated/includes/menu.xml	1043	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
 /fsh-generated/includes/fsh-link-references.md	173	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
 /input/pagecontent/index.md	1096	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
 /template/config	0	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
 /template/config/_config.yml	140	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-/temp/pages/_includes/artifacts.xml	2516	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	0	0	0	0	0	0	0
+/temp/pages/_includes/artifacts.xml	2516	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	0	0	0	0	0	0
